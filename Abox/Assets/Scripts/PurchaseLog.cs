@@ -8,6 +8,8 @@ public class PurchaseLog : MonoBehaviour
     public void StartAutoBox()
     {
         AutoBox.SetActive(true);
+        GlobalCash.CashCount -= GlobalAutoClicker.autoValue;
+        GlobalAutoClicker.autoValue *= 2;
     }
     
 
