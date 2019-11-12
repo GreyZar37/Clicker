@@ -12,6 +12,6 @@ public class GlobalBoxes : MonoBehaviour
     void Update()
     {
         InternalBox = BoxCount; 
-        BoxDisplay.GetComponent<Text>().text = "Boxes: " + InternalBox; 
+        BoxDisplay.GetComponent<Text>().text = "Boxes " + InternalBox; 
     }
 }

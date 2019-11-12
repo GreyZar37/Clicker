@@ -8,8 +8,16 @@ public class Sell : MonoBehaviour
 
     public void ClickTheButton()
     {
-        GlobalBoxes.BoxCount -= 1;
-        GlobalCash.CashCount += 1;
+        if (GlobalBoxes.BoxCount == 0)
+        {
+
+        }
+        else
+        {
+            GlobalBoxes.BoxCount -= 1;
+            GlobalCash.CashCount += 1;
+        }
+       
     }
 
 
