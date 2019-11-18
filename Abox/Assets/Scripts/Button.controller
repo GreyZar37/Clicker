@@ -1,6 +1,7 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1107 &-7470523936445636946
 AnimatorStateMachine:
   serializedVersion: 5
@@ -43,6 +44,8 @@ AnimatorStateTransition:
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
 >>>>>>> 50d4921a40fbee2c5a946e9878f4e767546d69c4
+=======
+>>>>>>> parent of 50d4921... animation
 --- !u!91 &9100000
 AnimatorController:
   m_ObjectHideFlags: 0
@@ -52,6 +55,7 @@ AnimatorController:
   m_Name: Button
   serializedVersion: 5
   m_AnimatorParameters: []
+<<<<<<< HEAD
   m_AnimatorLayers:
   - serializedVersion: 5
 <<<<<<< HEAD
@@ -151,3 +155,6 @@ AnimatorState:
   m_CycleOffsetParameter: 
   m_TimeParameter: 
 >>>>>>> 50d4921a40fbee2c5a946e9878f4e767546d69c4
+=======
+  m_AnimatorLayers: []
+>>>>>>> parent of 50d4921... animation
