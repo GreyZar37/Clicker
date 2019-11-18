@@ -8,7 +8,9 @@ public class GlobalAutoClicker : MonoBehaviour
     public GameObject realBotten;
     public GameObject realText;
     public int currentCash; 
-    public static int autoValue = 50;
+    public static int autoValue = 10;
+    public static int numberOfAutoClicker;
+    public static int makePerSec;
     
     
     void Start()

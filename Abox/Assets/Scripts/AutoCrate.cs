@@ -10,6 +10,7 @@ public class AutoCrate : MonoBehaviour
     public int InternalIncrease;
         void Update()
     {
+        BoxIncrease = GlobalAutoClicker.makePerSec;
         InternalIncrease = BoxIncrease; 
         if (CreatingBoxes == false)
         {

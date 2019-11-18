@@ -10,6 +10,10 @@ public class PurchaseLog : MonoBehaviour
         AutoBox.SetActive(true);
         GlobalCash.CashCount -= GlobalAutoClicker.autoValue;
         GlobalAutoClicker.autoValue *= 2;
+        GlobalAutoClicker.makePerSec += 1;
+        GlobalAutoClicker.numberOfAutoClicker += 1;
+
+
     }
     
 
