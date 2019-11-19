@@ -11,8 +11,12 @@ public class Button : MonoBehaviour
     public void ClickTheButton()
     {
         GlobalBoxes.BoxCount += 1;
-        buttonanimation.Play("PopUpBox");
-    }
+        buttonanimation.Play("ANIMATION TIL BOX");
 
+      
+ 
+
+
+    }
 
 }
