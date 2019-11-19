@@ -26,9 +26,10 @@ public class Button : MonoBehaviour
 
         }
         GlobalBoxes.BoxCount += 1;
-        buttonanimation.Play("PopUpBox");
+        buttonanimation.Play("ANIMATION TIL BOX");
 
-        
+
+
     }
 
 
