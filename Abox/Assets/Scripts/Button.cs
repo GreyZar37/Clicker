@@ -26,7 +26,7 @@ public class Button : MonoBehaviour
 
         }
         GlobalBoxes.BoxCount += 1;
-        buttonanimation.Play("ANIMATION TIL BOX");
+        buttonanimation.Play("lort");
 
 
 

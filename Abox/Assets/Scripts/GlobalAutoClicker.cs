@@ -8,11 +8,19 @@ public class GlobalAutoClicker : MonoBehaviour
     public GameObject realBotten;
     public GameObject realText;
     public int currentCash; 
-    public static int autoValue = 10;
-    public static int numberOfAutoClicker;
-    public static int makePerSec;
-    
-    
+    public static int PriceOfBleach = 10;
+    public static int PriceOfWorkers = 100;
+
+    public static int NumberOfBleachAutoClickers;
+    public static int BleachPerSecond;
+
+    public static int NumberOfWorkersAutoClickers;
+    public static int WorkersPerSecond;
+
+    public static int Mod = 1;
+
+
+
     void Start()
     {
         
@@ -23,14 +31,37 @@ public class GlobalAutoClicker : MonoBehaviour
     {
         currentCash = GlobalCash.CashCount;
         
-        realText.GetComponent<Text>().text = "Buy bleach - $" + autoValue;
-        if (currentCash >= autoValue)
-        {
-            realBotten.GetComponent<UnityEngine.UI.Button>().interactable = true;
-
-        } else
-        {
-            realBotten.GetComponent<UnityEngine.UI.Button>().interactable = false;
-        }
+     
     }
+
+    public void updatebuttongraphics(Text targetText,UnityEngine.UI.Button targetButton,string buttonText, string buttonType)
+    {
+
+        int price = 0; 
+
+        if (buttonType == "bleach")
+        {
+            price = PriceOfBleach;
+        }
+
+        if (buttonType == "workers")
+        {
+            price = PriceOfWorkers;
+        }
+
+        targetText.text = buttonText + price;
+
+/*
+        if (currentCash >= PriceOfBleach)
+        {
+            targetButton.interactable = true;
+
+        }
+        else
+        {
+            targetButton.interactable = false;
+        }
+        */
+    }
+
 }

@@ -10,7 +10,7 @@ public class AutoCrate : MonoBehaviour
     public int InternalIncrease;
         void Update()
     {
-        BoxIncrease = GlobalAutoClicker.makePerSec;
+        BoxIncrease = GlobalAutoClicker.BleachPerSecond;
         InternalIncrease = BoxIncrease; 
         if (CreatingBoxes == false)
         {
