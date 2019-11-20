@@ -1,7 +1,10 @@
 fileFormatVersion: 2
 guid: ea274eb524ce5fd449795ef162da7b0c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2746845433570763346
+    second: mARKET_0
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -84,7 +87,28 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: mARKET_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 17
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd8e7e5edb2b8843a6465d8aeb2a4ea
+      internalID: 2746845433570763346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
