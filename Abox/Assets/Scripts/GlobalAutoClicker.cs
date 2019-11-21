@@ -7,9 +7,15 @@ public class GlobalAutoClicker : MonoBehaviour
 {
     public GameObject realBotten;
     public GameObject realText;
+
+    
+
     public int currentCash; 
     public static int PriceOfBleach = 10;
-    public static int PriceOfWorkers = 100;
+    public static int PriceOfWorkers = 10;
+
+    public static int PriceOfWorkersUpgrade = 1;
+
 
     public static int NumberOfBleachAutoClickers;
     public static int BleachPerSecond;
@@ -48,6 +54,8 @@ public class GlobalAutoClicker : MonoBehaviour
         {
             price = PriceOfWorkers;
         }
+        
+       
 
         targetText.text = buttonText + price;
 

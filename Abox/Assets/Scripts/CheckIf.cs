@@ -37,6 +37,24 @@ public class CheckIf : MonoBehaviour
                 GetComponent<UnityEngine.UI.Button>().interactable = false;
 
             }
+
+
+        }
+        
+        if (type == "WorkersUpgrade")
+        {
+            if (GlobalCash.CashCount >= GlobalAutoClicker.PriceOfWorkersUpgrade)
+            {
+                GetComponent<UnityEngine.UI.Button>().interactable = true;
+
+            }
+            else
+            {
+                GetComponent<UnityEngine.UI.Button>().interactable = false;
+
+            }
+
+
         }
 
 
