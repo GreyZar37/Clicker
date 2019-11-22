@@ -12,16 +12,22 @@ public class GlobalAutoClicker : MonoBehaviour
 
     public int currentCash; 
     public static int PriceOfBleach = 10;
-    public static int PriceOfWorkers = 10;
+    
+    public static int PriceOfWorkers = 100;
 
-    public static int PriceOfWorkersUpgrade = 1;
+    public static int PriceOfWorkersUpgrade = 1000;
+
+    public static int PriceOfScissors = 500;
 
 
     public static int NumberOfBleachAutoClickers;
     public static int BleachPerSecond;
 
-    public static int NumberOfWorkersAutoClickers;
+    public static int NumberOfScissorsAutoClicker;
     public static int WorkersPerSecond;
+
+    public static int NumberOfScissorsAutoClickers; 
+    public static int ScissorsPerSecond;
 
     public static int Mod = 1;
 
@@ -53,6 +59,10 @@ public class GlobalAutoClicker : MonoBehaviour
         if (buttonType == "workers")
         {
             price = PriceOfWorkers;
+        }
+        if (buttonType == "scissors")
+        {
+            price = PriceOfScissors;
         }
         
        

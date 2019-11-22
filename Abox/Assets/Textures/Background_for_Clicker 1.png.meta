@@ -1,0 +1,4111 @@
+fileFormatVersion: 2
+guid: bb597743073dd80438d0e876af9226f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5626728450978897323
+    second: Background_for_Clicker 1_0
+  - first:
+      213: 6143085671423196388
+    second: Background_for_Clicker 1_1
+  - first:
+      213: 3545252090400415691
+    second: Background_for_Clicker 1_2
+  - first:
+      213: -1304543488281693302
+    second: Background_for_Clicker 1_3
+  - first:
+      213: 7519892244196801070
+    second: Background_for_Clicker 1_4
+  - first:
+      213: 8567527974301759469
+    second: Background_for_Clicker 1_5
+  - first:
+      213: 925636835236550859
+    second: Background_for_Clicker 1_6
+  - first:
+      213: 3090990497321541187
+    second: Background_for_Clicker 1_7
+  - first:
+      213: 2769438333492264949
+    second: Background_for_Clicker 1_8
+  - first:
+      213: 2467122444542398965
+    second: Background_for_Clicker 1_9
+  - first:
+      213: -8862546674856501880
+    second: Background_for_Clicker 1_10
+  - first:
+      213: 8241031222878451070
+    second: Background_for_Clicker 1_11
+  - first:
+      213: -2353411616942210870
+    second: Background_for_Clicker 1_12
+  - first:
+      213: -1104987893962877881
+    second: Background_for_Clicker 1_13
+  - first:
+      213: -5636545220828616670
+    second: Background_for_Clicker 1_14
+  - first:
+      213: -1415425586806651241
+    second: Background_for_Clicker 1_15
+  - first:
+      213: -8277064623144949126
+    second: Background_for_Clicker 1_16
+  - first:
+      213: 8864419857190013872
+    second: Background_for_Clicker 1_17
+  - first:
+      213: 6644167721564568444
+    second: Background_for_Clicker 1_18
+  - first:
+      213: 8183853094742015571
+    second: Background_for_Clicker 1_19
+  - first:
+      213: 7156784148948736978
+    second: Background_for_Clicker 1_20
+  - first:
+      213: -1795846509945963803
+    second: Background_for_Clicker 1_21
+  - first:
+      213: 4564766493479314474
+    second: Background_for_Clicker 1_22
+  - first:
+      213: 7169247217983567642
+    second: Background_for_Clicker 1_23
+  - first:
+      213: 6980571990658960952
+    second: Background_for_Clicker 1_24
+  - first:
+      213: -3135626542141758963
+    second: Background_for_Clicker 1_25
+  - first:
+      213: 7246616555928809871
+    second: Background_for_Clicker 1_26
+  - first:
+      213: -7515056407243985716
+    second: Background_for_Clicker 1_27
+  - first:
+      213: -5221771461475405000
+    second: Background_for_Clicker 1_28
+  - first:
+      213: -3931536999430479496
+    second: Background_for_Clicker 1_29
+  - first:
+      213: 4393198295602946192
+    second: Background_for_Clicker 1_30
+  - first:
+      213: -4948848973435740919
+    second: Background_for_Clicker 1_31
+  - first:
+      213: 2273774370729305918
+    second: Background_for_Clicker 1_32
+  - first:
+      213: 3217859587932750676
+    second: Background_for_Clicker 1_33
+  - first:
+      213: -2784684403457487813
+    second: Background_for_Clicker 1_34
+  - first:
+      213: 5306939346850459877
+    second: Background_for_Clicker 1_35
+  - first:
+      213: 3520075630788577327
+    second: Background_for_Clicker 1_36
+  - first:
+      213: -9215132772445687767
+    second: Background_for_Clicker 1_37
+  - first:
+      213: 7490974322745231156
+    second: Background_for_Clicker 1_38
+  - first:
+      213: 8550633325262621959
+    second: Background_for_Clicker 1_39
+  - first:
+      213: -7807107964398767546
+    second: Background_for_Clicker 1_40
+  - first:
+      213: 8497981683151600228
+    second: Background_for_Clicker 1_41
+  - first:
+      213: -4504824896446423311
+    second: Background_for_Clicker 1_42
+  - first:
+      213: 2572680614496674147
+    second: Background_for_Clicker 1_43
+  - first:
+      213: -3123117045299621427
+    second: Background_for_Clicker 1_44
+  - first:
+      213: -9088369799092186200
+    second: Background_for_Clicker 1_45
+  - first:
+      213: 5466647729869205326
+    second: Background_for_Clicker 1_46
+  - first:
+      213: 147361056068089833
+    second: Background_for_Clicker 1_47
+  - first:
+      213: 4052264705263710849
+    second: Background_for_Clicker 1_48
+  - first:
+      213: -1167192385344723503
+    second: Background_for_Clicker 1_49
+  - first:
+      213: 2538983699758271618
+    second: Background_for_Clicker 1_50
+  - first:
+      213: -8598288767551234693
+    second: Background_for_Clicker 1_51
+  - first:
+      213: 2073712753960685852
+    second: Background_for_Clicker 1_52
+  - first:
+      213: -5939248358038348537
+    second: Background_for_Clicker 1_53
+  - first:
+      213: 4161389168843488364
+    second: Background_for_Clicker 1_54
+  - first:
+      213: -7045852009717224236
+    second: Background_for_Clicker 1_55
+  - first:
+      213: 6462653142114444562
+    second: Background_for_Clicker 1_56
+  - first:
+      213: 3699427037193958380
+    second: Background_for_Clicker 1_57
+  - first:
+      213: 8196180210138037611
+    second: Background_for_Clicker 1_58
+  - first:
+      213: -2551890186121310994
+    second: Background_for_Clicker 1_59
+  - first:
+      213: 2841978767793326884
+    second: Background_for_Clicker 1_60
+  - first:
+      213: -582655159436203988
+    second: Background_for_Clicker 1_61
+  - first:
+      213: -1545433841587565111
+    second: Background_for_Clicker 1_62
+  - first:
+      213: 285123854723452588
+    second: Background_for_Clicker 1_63
+  - first:
+      213: -4959929651036430221
+    second: Background_for_Clicker 1_64
+  - first:
+      213: 5123980706672160489
+    second: Background_for_Clicker 1_65
+  - first:
+      213: -2625807913628932363
+    second: Background_for_Clicker 1_66
+  - first:
+      213: 5414916228207999362
+    second: Background_for_Clicker 1_67
+  - first:
+      213: -3410689649935123405
+    second: Background_for_Clicker 1_68
+  - first:
+      213: 6499487036070168207
+    second: Background_for_Clicker 1_69
+  - first:
+      213: -7039506613751902213
+    second: Background_for_Clicker 1_70
+  - first:
+      213: 814692732512363098
+    second: Background_for_Clicker 1_71
+  - first:
+      213: 2423467662217202999
+    second: Background_for_Clicker 1_72
+  - first:
+      213: 666821460967879180
+    second: Background_for_Clicker 1_73
+  - first:
+      213: -5206568201521817960
+    second: Background_for_Clicker 1_74
+  - first:
+      213: -5343236449897691006
+    second: Background_for_Clicker 1_75
+  - first:
+      213: -4731371477920590378
+    second: Background_for_Clicker 1_76
+  - first:
+      213: -3853514799520505369
+    second: Background_for_Clicker 1_77
+  - first:
+      213: -4200889524934509910
+    second: Background_for_Clicker 1_78
+  - first:
+      213: -5079200864845944554
+    second: Background_for_Clicker 1_79
+  - first:
+      213: -4418802766054371695
+    second: Background_for_Clicker 1_80
+  - first:
+      213: -8776826634114868856
+    second: Background_for_Clicker 1_81
+  - first:
+      213: 9094720929048523582
+    second: Background_for_Clicker 1_82
+  - first:
+      213: -6200008880475301582
+    second: Background_for_Clicker 1_83
+  - first:
+      213: -8851287482715784820
+    second: Background_for_Clicker 1_84
+  - first:
+      213: -3562639849018487770
+    second: Background_for_Clicker 1_85
+  - first:
+      213: -768572162232317487
+    second: Background_for_Clicker 1_86
+  - first:
+      213: 4886917791642101612
+    second: Background_for_Clicker 1_87
+  - first:
+      213: -8678152260150588066
+    second: Background_for_Clicker 1_88
+  - first:
+      213: -7881147234499430819
+    second: Background_for_Clicker 1_89
+  - first:
+      213: -7078634800887508941
+    second: Background_for_Clicker 1_90
+  - first:
+      213: 1293416471791038729
+    second: Background_for_Clicker 1_91
+  - first:
+      213: -6093314682486395635
+    second: Background_for_Clicker 1_92
+  - first:
+      213: 6655856257908302681
+    second: Background_for_Clicker 1_93
+  - first:
+      213: -1155778966711340102
+    second: Background_for_Clicker 1_94
+  - first:
+      213: -5135082039365451895
+    second: Background_for_Clicker 1_95
+  - first:
+      213: 7294983837321702306
+    second: Background_for_Clicker 1_96
+  - first:
+      213: 9049705073033222669
+    second: Background_for_Clicker 1_97
+  - first:
+      213: -6619129214082807021
+    second: Background_for_Clicker 1_98
+  - first:
+      213: 2871454098432832419
+    second: Background_for_Clicker 1_99
+  - first:
+      213: 6532865308223745887
+    second: Background_for_Clicker 1_100
+  - first:
+      213: 8124655088272687465
+    second: Background_for_Clicker 1_101
+  - first:
+      213: -85593302662486397
+    second: Background_for_Clicker 1_102
+  - first:
+      213: -7662660872499348573
+    second: Background_for_Clicker 1_103
+  - first:
+      213: -7373827183399755663
+    second: Background_for_Clicker 1_104
+  - first:
+      213: 2153681917012449145
+    second: Background_for_Clicker 1_105
+  - first:
+      213: -1681272159033207355
+    second: Background_for_Clicker 1_106
+  - first:
+      213: 8882233689589067083
+    second: Background_for_Clicker 1_107
+  - first:
+      213: -1765471528324269112
+    second: Background_for_Clicker 1_108
+  - first:
+      213: -698148814068839398
+    second: Background_for_Clicker 1_109
+  - first:
+      213: 8827897444583009282
+    second: Background_for_Clicker 1_110
+  - first:
+      213: 1273948438165957460
+    second: Background_for_Clicker 1_111
+  - first:
+      213: -2474433730315861030
+    second: Background_for_Clicker 1_112
+  - first:
+      213: -5785973809740437051
+    second: Background_for_Clicker 1_113
+  - first:
+      213: -6391706443450936963
+    second: Background_for_Clicker 1_114
+  - first:
+      213: -809937105684958800
+    second: Background_for_Clicker 1_115
+  - first:
+      213: 2281467623929457685
+    second: Background_for_Clicker 1_116
+  - first:
+      213: -299143189837820879
+    second: Background_for_Clicker 1_117
+  - first:
+      213: -263829239596458828
+    second: Background_for_Clicker 1_118
+  - first:
+      213: -7670115501316422275
+    second: Background_for_Clicker 1_119
+  - first:
+      213: 6161829645155564275
+    second: Background_for_Clicker 1_120
+  - first:
+      213: -5487602570129440828
+    second: Background_for_Clicker 1_121
+  - first:
+      213: 6343026157574405571
+    second: Background_for_Clicker 1_122
+  - first:
+      213: 4420189909750204546
+    second: Background_for_Clicker 1_123
+  - first:
+      213: -2268426800283934912
+    second: Background_for_Clicker 1_124
+  - first:
+      213: 7964582912434353260
+    second: Background_for_Clicker 1_125
+  - first:
+      213: -210572168047874592
+    second: Background_for_Clicker 1_126
+  - first:
+      213: -8526928074268892240
+    second: Background_for_Clicker 1_127
+  - first:
+      213: -9092261401554045723
+    second: Background_for_Clicker 1_128
+  - first:
+      213: -8687970300852464068
+    second: Background_for_Clicker 1_129
+  - first:
+      213: 7068520559155613168
+    second: Background_for_Clicker 1_130
+  - first:
+      213: 8642708111263630765
+    second: Background_for_Clicker 1_131
+  - first:
+      213: -7274224128567296920
+    second: Background_for_Clicker 1_132
+  - first:
+      213: 6804584907952298298
+    second: Background_for_Clicker 1_133
+  - first:
+      213: -5931221096589065724
+    second: Background_for_Clicker 1_134
+  - first:
+      213: -4279700452226981979
+    second: Background_for_Clicker 1_135
+  - first:
+      213: 1025808589652578967
+    second: Background_for_Clicker 1_136
+  - first:
+      213: 8370039343893708695
+    second: Background_for_Clicker 1_137
+  - first:
+      213: -2844564112195120276
+    second: Background_for_Clicker 1_138
+  - first:
+      213: -4223847400188716260
+    second: Background_for_Clicker 1_139
+  - first:
+      213: -1528186980672186319
+    second: Background_for_Clicker 1_140
+  - first:
+      213: 5060567037533626521
+    second: Background_for_Clicker 1_141
+  - first:
+      213: 6371387792399823959
+    second: Background_for_Clicker 1_142
+  - first:
+      213: 5673719318930275222
+    second: Background_for_Clicker 1_143
+  - first:
+      213: 2406432453983458875
+    second: Background_for_Clicker 1_144
+  - first:
+      213: -4517502318390471045
+    second: Background_for_Clicker 1_145
+  - first:
+      213: 6373538574096349627
+    second: Background_for_Clicker 1_146
+  - first:
+      213: -2181253253457583889
+    second: Background_for_Clicker 1_147
+  - first:
+      213: -5204665135180075307
+    second: Background_for_Clicker 1_148
+  - first:
+      213: 2301012855635911512
+    second: Background_for_Clicker 1_149
+  - first:
+      213: -7793808784064716758
+    second: Background_for_Clicker 1_150
+  - first:
+      213: -1859239272290833530
+    second: Background_for_Clicker 1_151
+  - first:
+      213: -7504286020353974837
+    second: Background_for_Clicker 1_152
+  - first:
+      213: -346576685309801524
+    second: Background_for_Clicker 1_153
+  - first:
+      213: -6513513770079853257
+    second: Background_for_Clicker 1_154
+  - first:
+      213: 2811693349150002167
+    second: Background_for_Clicker 1_155
+  - first:
+      213: -742760764171844834
+    second: Background_for_Clicker 1_156
+  - first:
+      213: -8651324097112058322
+    second: Background_for_Clicker 1_157
+  - first:
+      213: 537847246619357191
+    second: Background_for_Clicker 1_158
+  - first:
+      213: -6944776584215725236
+    second: Background_for_Clicker 1_159
+  - first:
+      213: -5500036567800222536
+    second: Background_for_Clicker 1_160
+  - first:
+      213: -2477335478643028690
+    second: Background_for_Clicker 1_161
+  - first:
+      213: -7892494080412688721
+    second: Background_for_Clicker 1_162
+  - first:
+      213: 3513956420659838215
+    second: Background_for_Clicker 1_163
+  - first:
+      213: -6319861239564595649
+    second: Background_for_Clicker 1_164
+  - first:
+      213: -3456099169593204227
+    second: Background_for_Clicker 1_165
+  - first:
+      213: 16635622633205031
+    second: Background_for_Clicker 1_166
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce1646c47b3d3d4fbed6ff729302c29
+      internalID: -5626728450978897323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1560
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5e36f4b26270c4c90b39cd89d39fc6
+      internalID: 6143085671423196388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1560
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ee80dafa9f8b1439cb7cf5b02ac900
+      internalID: 3545252090400415691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1560
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0908056fa20c64146981cfede97b0806
+      internalID: -1304543488281693302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1560
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef510e10fc3e344f9c28efc8a80da3c
+      internalID: 7519892244196801070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1560
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cab7c70da018334eb90f4282b238d22
+      internalID: 8567527974301759469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_6
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1560
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a0df48ad9eacc49a06bf2dc42ab8bd
+      internalID: 925636835236550859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1560
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0c7bfbfadd853488300d139936ed69
+      internalID: 3090990497321541187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_8
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1560
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efd301e677a84049b30c0c21c475021
+      internalID: 2769438333492264949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_9
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1560
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3576bfe885f4d964a9e2ff9a81b98539
+      internalID: 2467122444542398965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_10
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1560
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2ea4258a55f2f4aa4c9bfc22c1360f
+      internalID: -8862546674856501880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_11
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1560
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c031b533e7daee4f88e79bf3f6a879f
+      internalID: 8241031222878451070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_12
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1560
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0bd81ce4bf2c2468fb6e33e43ed6db
+      internalID: -2353411616942210870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1430
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c989d2b2265704ba1d0853a1198540
+      internalID: -1104987893962877881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1430
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df692356b01a244c95ff7dda76fe808
+      internalID: -5636545220828616670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1430
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d806dff7f32266e40af91749568c07b2
+      internalID: -1415425586806651241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1430
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be86a16629ea724fb1ce4e282a66837
+      internalID: -8277064623144949126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_17
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1430
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9132fc1ed8549224e92c6141facad0ce
+      internalID: 8864419857190013872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_18
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1430
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9f882336a2e724b92a2cf9ab7c2a24
+      internalID: 6644167721564568444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_19
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1430
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a67c35fd911464495c310135baaa40
+      internalID: 8183853094742015571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_20
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1430
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a20919cba33cd241b45d3972e7334ec
+      internalID: 7156784148948736978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_21
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1430
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479e65023528e804190e45c149d2e901
+      internalID: -1795846509945963803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_22
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1430
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7750fb8402dfb444cbe1f6ca1c6e9c4f
+      internalID: 4564766493479314474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_23
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1430
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8955ad4ba1bd748afc77652fc0a569
+      internalID: 7169247217983567642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_24
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1430
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4490497410a337147b4cfd11e4f63fbd
+      internalID: 6980571990658960952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_25
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1430
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fb69de22e62c3458a049c61a94ce3e
+      internalID: -3135626542141758963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4785214bd5ce1fa4381c6b70f7f3253a
+      internalID: 7246616555928809871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f713d8896fed06e4a90764212fb5a657
+      internalID: -7515056407243985716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1466b0ffa2bf3ee47ab583d29c8538e1
+      internalID: -5221771461475405000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a782912c6f6986444b6cc00f9a5c5cf3
+      internalID: -3931536999430479496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_30
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631c5bef74ca41046b47a34d44d2f18a
+      internalID: 4393198295602946192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_31
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b11ecfe166aa4e4bbb025a48a63f7bd
+      internalID: -4948848973435740919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_32
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b435bc29c2c165b488c6ea9f8d454ee8
+      internalID: 2273774370729305918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_33
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f729e603c1304947aa2798f0f298ace
+      internalID: 3217859587932750676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_34
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d07da337ff80345ad6a32f8fd079f7
+      internalID: -2784684403457487813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_35
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106a00382684309448beec005ac833c0
+      internalID: 5306939346850459877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_36
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0414c3ad08bcb4941966485ba6ab999d
+      internalID: 3520075630788577327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_37
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135c60f61d6387947822967f6dcd0b6b
+      internalID: -9215132772445687767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_38
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25ced335d688a646956643828959686
+      internalID: 7490974322745231156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1170
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c7449d0df954a46843cad4a20c3c30
+      internalID: 8550633325262621959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1170
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74b9c2343dd92c458fc8a085b9cb784
+      internalID: -7807107964398767546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1170
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3a01b5f6b06af4191df27906649727
+      internalID: 8497981683151600228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1170
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201ab61d3cae3e0488c83242ed3829c8
+      internalID: -4504824896446423311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_43
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1170
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a11f85a2e5296449691c57254cb826
+      internalID: 2572680614496674147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_44
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1170
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f9f3990eb26b94784ab987cb519146
+      internalID: -3123117045299621427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_45
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1170
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5689b3f7863862745ab2d78dc05f1e58
+      internalID: -9088369799092186200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_46
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1170
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ab0943f3b415747bd575151f2bb922
+      internalID: 5466647729869205326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_47
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1170
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cd4496b6ffd4a4fb1ae7365024fd46
+      internalID: 147361056068089833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_48
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1170
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377c4fb66b269e64abc45302fd17378f
+      internalID: 4052264705263710849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_49
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1170
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb8a191892733c499cc8137a3942470
+      internalID: -1167192385344723503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_50
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1170
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f88ae03174a01c43847762cf697bced
+      internalID: 2538983699758271618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_51
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1170
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b392c3ed87026b04185fb7cce1fca0f2
+      internalID: -8598288767551234693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a114d1dabf573468ad306f3c68036f
+      internalID: 2073712753960685852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_53
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1040
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f8eca6f9ed3054896ae20bcdaa9a23
+      internalID: -5939248358038348537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_54
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1040
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09269dee970220340bc6bd03318f3e35
+      internalID: 4161389168843488364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_55
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1040
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea50e614fe1a62449897cd054681082
+      internalID: -7045852009717224236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_56
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1040
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e60e332554c73a49b2c4d40d5357566
+      internalID: 6462653142114444562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_57
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1040
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61b346a0c5aa8341b9c24cd505f6d4f
+      internalID: 3699427037193958380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_58
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1040
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f30429610aaad40a4ebbb8be7f6aa2
+      internalID: 8196180210138037611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_59
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1040
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0956a59410e044bb313d8622a46387
+      internalID: -2551890186121310994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_60
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1040
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b9fbc3365c0f2439c30f25bf9ad573
+      internalID: 2841978767793326884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_61
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1040
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce849b3779543b45b8f732b8431c504
+      internalID: -582655159436203988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_62
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1040
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba5ede20e52f3b438f4dec7049e47cd
+      internalID: -1545433841587565111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_63
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1040
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b87c0aade59a924396dc3dcc21e2bdc
+      internalID: 285123854723452588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_64
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1040
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcf9858f35a0864987cd70bd8d597de
+      internalID: -4959929651036430221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddae73ed057f2d4fb47d0070bec7b9d
+      internalID: 5123980706672160489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_66
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 910
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be438e675c773c4995fcf538760272e
+      internalID: -2625807913628932363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_67
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 910
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd7f3580d639c04ca6b5cb9addd63a0
+      internalID: 5414916228207999362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_68
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 910
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b9aaa71e7e72345bf6d875325fb5c7
+      internalID: -3410689649935123405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_69
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 910
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5578810bb4cca4c92f5aa2bb8084c8
+      internalID: 6499487036070168207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_70
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 910
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0e732481cb98341b1eeef8441ed550
+      internalID: -7039506613751902213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_71
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 910
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b070632072dec974d8d0c385c950cca6
+      internalID: 814692732512363098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_72
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 910
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa46118c6a5ec14b9ac298ab40f133f
+      internalID: 2423467662217202999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_73
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 910
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999e8433c208b234ea3ede87c58615cf
+      internalID: 666821460967879180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_74
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 910
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ee4ba245cf31b43a66c88c36d244a2
+      internalID: -5206568201521817960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_75
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 910
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08277fa11ab55bb4d8c8289d76186d70
+      internalID: -5343236449897691006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_76
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 910
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e05da12b7935184d80013957a73b515
+      internalID: -4731371477920590378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_77
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 910
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1090aa39cfc655640930c81a79ab7b86
+      internalID: -3853514799520505369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a33a4a59f428dc45ae623e39886c165
+      internalID: -4200889524934509910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_79
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 780
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10888539323b385489261651ad9968bd
+      internalID: -5079200864845944554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_80
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 780
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13053cee67bd4c47812511ed9f25e6b
+      internalID: -4418802766054371695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_81
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 780
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa768b38bdd7b64688fd266a2437d3b
+      internalID: -8776826634114868856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_82
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 780
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a29bee9c97f7e419931f17b5938f4a
+      internalID: 9094720929048523582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_83
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 780
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1966c520ce3ecbf42829ec18620ce8cb
+      internalID: -6200008880475301582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_84
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 780
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837e2d206ab77b74083b252f90b65802
+      internalID: -8851287482715784820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_85
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 780
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bb7e88817967846b05f87dc034f577
+      internalID: -3562639849018487770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_86
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 780
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0756d25a5eef187408e1fd953205d431
+      internalID: -768572162232317487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_87
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 780
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325c306b91f3ced46b46e331943a9ca9
+      internalID: 4886917791642101612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_88
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 780
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c420ede13ca1541a9da824e62a30af
+      internalID: -8678152260150588066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_89
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 780
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0127ce4cce4b64a9cca9c5a4eea6d4
+      internalID: -7881147234499430819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_90
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 780
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28c4bb0cfe72d84d861c115fa5cf006
+      internalID: -7078634800887508941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537ba250dfef3e54d92d86dcdfc532b2
+      internalID: 1293416471791038729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_92
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 650
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef471a5f978c3a446b44e4a475a5c91d
+      internalID: -6093314682486395635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_93
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 650
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cd8cbc4b3ed7e4a8e4029516feb5d9
+      internalID: 6655856257908302681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_94
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 650
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c380561b846c32144912f3f191200d1c
+      internalID: -1155778966711340102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_95
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 650
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dab702d00eb2140ad045cb4e916d80
+      internalID: -5135082039365451895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_96
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 650
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95917c78801bb554b8eebfc331b72db5
+      internalID: 7294983837321702306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_97
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 650
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bdff86a318b75499a77134990728f3
+      internalID: 9049705073033222669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_98
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 650
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0021ad7be7481d488542b530f00fb9b
+      internalID: -6619129214082807021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_99
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 650
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709886005a76e9241818b4a7ed0df63d
+      internalID: 2871454098432832419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_100
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 650
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b123a65554ffa494ea526e270aeba55c
+      internalID: 6532865308223745887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_101
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 650
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f895b3fa74515624190266790f910bb1
+      internalID: 8124655088272687465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_102
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 650
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdd260ab13d6a04cb02ee36aa34951a
+      internalID: -85593302662486397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_103
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 650
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8576edd34585ee74697c94759a5ccfd7
+      internalID: -7662660872499348573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddf9f44ea5b1d84f9fa9161f36574a3
+      internalID: -7373827183399755663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_105
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 520
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4722911d6c7b0498e0aa6b5d200cf3
+      internalID: 2153681917012449145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_106
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 520
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e645d9e89923247a16f851f39a4e7f
+      internalID: -1681272159033207355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_107
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 520
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe1a4fc93acb4e4aa51c404f91fcd81
+      internalID: 8882233689589067083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_108
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 520
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980f45f7e961bfa4abd975e7ea6f592a
+      internalID: -1765471528324269112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_109
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 520
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8805783341e29484ca1f888e27df96cb
+      internalID: -698148814068839398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_110
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 520
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbf6df7c23673848b5684ffa7560c62
+      internalID: 8827897444583009282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_111
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 520
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaa42a92fe5d1d429d575552977075d
+      internalID: 1273948438165957460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_112
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 520
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df1ab426cb47c6488f977d89c59e034
+      internalID: -2474433730315861030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_113
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 520
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc48f1518623674c84e8a1278d43534
+      internalID: -5785973809740437051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_114
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 520
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70304b33ff609946bc3630c11045a7a
+      internalID: -6391706443450936963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_115
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 520
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a63714b60d76504999a978d124bf253
+      internalID: -809937105684958800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_116
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 520
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9947511d21da34140b0b11bb6e3db303
+      internalID: 2281467623929457685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0459c5ab64866e84e999c0f06feb183e
+      internalID: -299143189837820879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_118
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 390
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494c82ae4ba08ac499171eba5636a898
+      internalID: -263829239596458828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_119
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 390
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa3dee72879f4345a684a11fe49d179
+      internalID: -7670115501316422275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_120
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 390
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293195420b3a23c4cad9b75fe2e8ff8d
+      internalID: 6161829645155564275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_121
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 390
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426c4791179872d4998992aee8ce09b6
+      internalID: -5487602570129440828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_122
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 390
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842f47a508d22574cb845ede88abaf47
+      internalID: 6343026157574405571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_123
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 390
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26ec6c255f81de449e90ee18f0e5360
+      internalID: 4420189909750204546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_124
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 390
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7576b81539f5937459b8f4139413f04c
+      internalID: -2268426800283934912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_125
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 390
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3f58faeb4d0e546934f2cd28ef58c7
+      internalID: 7964582912434353260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_126
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 390
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba39e971e7f9c4b8d18b8f9b1930e7
+      internalID: -210572168047874592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_127
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 390
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf209f7a389fb548b51f8c7f7a6901d
+      internalID: -8526928074268892240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_128
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 390
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a33f7a1e9a32f14c8b310d8a395101e
+      internalID: -9092261401554045723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_129
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 390
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdc5a13b39e3d94282154daba24e276
+      internalID: -8687970300852464068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aab97461e398b4fa0e2cafe901566b
+      internalID: 7068520559155613168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_131
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 260
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae403dd72ce3764f967aa4d81856a08
+      internalID: 8642708111263630765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_132
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 260
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871fdbe56389c594084cde610a3ca483
+      internalID: -7274224128567296920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_133
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 260
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f25ffb46c3362c47af84cd4fd491990
+      internalID: 6804584907952298298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_134
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 260
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ed6ab7b3737ce41bf4d55f2f56dca0
+      internalID: -5931221096589065724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_135
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 260
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2defecf1fd67e9469139a8562efd155
+      internalID: -4279700452226981979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_136
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 260
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384feae2204bae64884cf41e870e5152
+      internalID: 1025808589652578967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_137
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 260
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bae88ec2b2e754b99eb62c6324002b
+      internalID: 8370039343893708695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_138
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 260
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a612da17bc0ae7418c512f5a88699e9
+      internalID: -2844564112195120276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_139
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 260
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6f8fcb3c0f7864b954829df0e7cef9
+      internalID: -4223847400188716260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_140
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 260
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf75d0d38949f744af7f8aee84d2e03
+      internalID: -1528186980672186319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_141
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 260
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d88569b4723ed24a8b600a4c871dd72
+      internalID: 5060567037533626521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_142
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 260
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349aa61c9f057f749855f853f32e00c4
+      internalID: 6371387792399823959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50521faa048d2de428baf57ab6847804
+      internalID: 5673719318930275222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_144
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc734a7871b0c8458060d41152d8c64
+      internalID: 2406432453983458875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_145
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 130
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995e82cb0b84bf64c85cd6ad0f272b52
+      internalID: -4517502318390471045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_146
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 130
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45f41de85ec22e4ab3317e344a3ed22
+      internalID: 6373538574096349627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_147
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 130
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b2f9a3a910b9d4f8870a82d5f58b15
+      internalID: -2181253253457583889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_148
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 130
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59b7c4e36cbfc7478804aec3347b53f
+      internalID: -5204665135180075307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_149
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 130
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a21271a189f5ee47a8cb014a9d654ce
+      internalID: 2301012855635911512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_150
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 130
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b763abea3bf0848a2df5d462e40255
+      internalID: -7793808784064716758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_151
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 130
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53518e47ce1cd4641bbdcd6e39457633
+      internalID: -1859239272290833530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_152
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 130
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdef1b211c7acc45a8ae6c07ecd2c09
+      internalID: -7504286020353974837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_153
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 130
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f449bec500c37e94885a185dd6b6b32e
+      internalID: -346576685309801524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_154
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 130
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed59557e8dc939d4395fef1639334f14
+      internalID: -6513513770079853257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_155
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 130
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b07c51804fc0c04ba16828fc15180c7
+      internalID: 2811693349150002167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade12782f672d9c4f9c09d9a24cc93a2
+      internalID: -742760764171844834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_157
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2d7ff4579f5214182d913847dc5f93
+      internalID: -8651324097112058322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_158
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e968653c6dbae034984a39f5b4c14c2b
+      internalID: 537847246619357191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_159
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ab40ba0d8f822418a88341897e8dfb
+      internalID: -6944776584215725236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_160
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67482f86b3c69a4fa430ce732fcb8b4
+      internalID: -5500036567800222536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_161
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5875dff775062c4997596372765cca4
+      internalID: -2477335478643028690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_162
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe977962d7556b459b1ddf25d8cfbea
+      internalID: -7892494080412688721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_163
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd6676ee49ec62488a09428697310d0
+      internalID: 3513956420659838215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_164
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711158329ff57d24781ef27bc59db55c
+      internalID: -6319861239564595649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_165
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 0
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e1720d7cd7cf74fba73ad0c7f921ff
+      internalID: -3456099169593204227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_for_Clicker 1_166
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e85592289ef10439ecb711fac98e13
+      internalID: 16635622633205031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

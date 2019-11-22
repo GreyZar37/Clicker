@@ -7,9 +7,16 @@ public class PurchaseLog : MonoBehaviour
 {
     public GameObject AutoBox;
     public GameObject AutoBoxTwo;
+    public GameObject AutoBoxThree;
     public GameObject BuyBleach;
+  
     public GameObject buyWorkers;
     public GameObject tekstboxtwo;
+
+    public GameObject buyScissors;
+    public GameObject tekstBoxThree;
+
+
     public AudioSource sellSoundOne;
     public AudioSource sellSoundTwo;
     public GlobalAutoClicker gac;
@@ -26,6 +33,8 @@ public class PurchaseLog : MonoBehaviour
         buttonBetterWorkers.SetActive(false);
 
         GlobalCash.CashCount -= GlobalAutoClicker.PriceOfWorkersUpgrade;
+
+
         
 
 
@@ -80,14 +89,14 @@ public class PurchaseLog : MonoBehaviour
        
         GlobalBoxes.BoxCount -= 2;
         GlobalCash.CashCount += 1;
-        GlobalAutoClicker.NumberOfWorkersAutoClickers += 1;
+        GlobalAutoClicker.NumberOfScissorsAutoClicker += 1;
 
 
         AutoBoxTwo.SetActive(true);
         GlobalCash.CashCount -= GlobalAutoClicker.PriceOfWorkers;
         GlobalAutoClicker.PriceOfWorkers *= 2;
         GlobalAutoClicker.WorkersPerSecond += 4 * GlobalAutoClicker.Mod;
-        GlobalAutoClicker.NumberOfWorkersAutoClickers += 1;
+        GlobalAutoClicker.NumberOfScissorsAutoClicker += 1;
         gac.updatebuttongraphics(buyWorkers.GetComponentInChildren<Text>(), buyWorkers.GetComponent<UnityEngine.UI.Button>(),"Buy workers\n$", "workers");
        
         generateTone = Random.Range(1, 3);
@@ -104,6 +113,40 @@ public class PurchaseLog : MonoBehaviour
         }
 
         
+
+    }
+   
+    public void Scissors()
+
+ 
+    {
+
+        GlobalBoxes.BoxCount -= 2;
+        GlobalCash.CashCount += 1;
+        GlobalAutoClicker.NumberOfScissorsAutoClickers += 1;
+
+
+        AutoBoxThree.SetActive(true);
+        GlobalCash.CashCount -= GlobalAutoClicker.PriceOfScissors;
+        GlobalAutoClicker.PriceOfScissors *= 2;
+        GlobalAutoClicker.ScissorsPerSecond += 8;
+        GlobalAutoClicker.NumberOfScissorsAutoClicker += 1;
+        gac.updatebuttongraphics(buyScissors.GetComponentInChildren<Text>(), buyScissors.GetComponent<UnityEngine.UI.Button>(), "Buy Scissors\n$", "scissors");
+
+        generateTone = Random.Range(1, 3);
+        if (generateTone == 1)
+
+        {
+            sellSoundOne.Play();
+
+        }
+        if (generateTone == 2)
+        {
+            sellSoundTwo.Play();
+
+        }
+
+
 
     }
 
