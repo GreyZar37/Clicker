@@ -19,6 +19,9 @@ public class GlobalAutoClicker : MonoBehaviour
 
     public static int PriceOfScissors = 500;
 
+    public static int PriceOfStoreSign = 10;
+
+
 
     public static int NumberOfBleachAutoClickers;
     public static int BleachPerSecond;
@@ -28,6 +31,10 @@ public class GlobalAutoClicker : MonoBehaviour
 
     public static int NumberOfScissorsAutoClickers; 
     public static int ScissorsPerSecond;
+
+    public static int NumberOfStoreSignAutoClickers;
+    public static int StoreSignPerSecond;
+
 
     public static int Mod = 1;
 
@@ -64,8 +71,13 @@ public class GlobalAutoClicker : MonoBehaviour
         {
             price = PriceOfScissors;
         }
-        
-       
+        if (buttonType == "storeSign")
+        {
+            price = PriceOfScissors;
+        }
+
+
+
 
         targetText.text = buttonText + price;
 

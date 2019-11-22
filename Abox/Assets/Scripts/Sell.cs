@@ -8,6 +8,7 @@ public class Sell : MonoBehaviour
     public AudioSource sellSoundOne;
     public AudioSource sellSoundTwo;
     public int generateTone; 
+    
     public void ClickTheButton()
     {
         generateTone = Random.Range(1, 3);

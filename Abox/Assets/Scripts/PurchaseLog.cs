@@ -9,12 +9,16 @@ public class PurchaseLog : MonoBehaviour
     public GameObject AutoBoxTwo;
     public GameObject AutoBoxThree;
     public GameObject BuyBleach;
+    public GameObject AutoStore;
   
     public GameObject buyWorkers;
     public GameObject tekstboxtwo;
 
     public GameObject buyScissors;
     public GameObject tekstBoxThree;
+
+    public GameObject buyStoreSign;
+    public GameObject tekstBoxStore;
 
 
     public AudioSource sellSoundOne;
@@ -150,6 +154,39 @@ public class PurchaseLog : MonoBehaviour
 
     }
 
+
+    public void StoreSign()
+
+
+    {
+
+    
+   
+
+
+        AutoStore.SetActive(true);
+        GlobalCash.CashCount -= GlobalAutoClicker.PriceOfStoreSign;
+        GlobalAutoClicker.PriceOfStoreSign *= 2;
+        GlobalAutoClicker.StoreSignPerSecond += 1;
+        GlobalAutoClicker.NumberOfStoreSignAutoClickers += 1;
+        gac.updatebuttongraphics(buyStoreSign.GetComponentInChildren<Text>(), buyStoreSign.GetComponent<UnityEngine.UI.Button>(), "Buy store sign\n$", "storeSign");
+
+        generateTone = Random.Range(1, 3);
+        if (generateTone == 1)
+
+        {
+            sellSoundOne.Play();
+
+        }
+        if (generateTone == 2)
+        {
+            sellSoundTwo.Play();
+
+        }
+
+
+
+    }
     public void NewBoxTexture()
     {
         Abox.sprite = NewBoxOne;

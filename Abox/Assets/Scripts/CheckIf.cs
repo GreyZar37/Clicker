@@ -64,9 +64,27 @@ public class CheckIf : MonoBehaviour
             }
 
 
+        if (type == "storeSign")
+        {
+            if (GlobalCash.CashCount >= GlobalAutoClicker.PriceOfStoreSign)
+            {
+                GetComponent<UnityEngine.UI.Button>().interactable = true;
+
+            }
+            else
+            {
+                GetComponent<UnityEngine.UI.Button>().interactable = false;
+
+            }
 
 
-            if (type == "WorkersUpgrade")
+        }
+
+
+
+
+
+        if (type == "WorkersUpgrade")
             {
                 if (GlobalCash.CashCount >= GlobalAutoClicker.PriceOfWorkersUpgrade)
                 {
