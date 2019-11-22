@@ -80,6 +80,22 @@ public class CheckIf : MonoBehaviour
 
         }
 
+        if (type == "speaker")
+        {
+            if (GlobalCash.CashCount >= GlobalAutoClicker.PriceOfSpeaker)
+            {
+                GetComponent<UnityEngine.UI.Button>().interactable = true;
+
+            }
+            else
+            {
+                GetComponent<UnityEngine.UI.Button>().interactable = false;
+
+            }
+
+
+        }
+
 
 
 

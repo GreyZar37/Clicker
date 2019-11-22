@@ -25,11 +25,15 @@ public class AutoStore : MonoBehaviour
     }
         IEnumerator SellTheBox()
         {
-            if (GlobalBoxes.BoxCount >= 1)
+            if (GlobalBoxes.BoxCount >= GlobalAutoClicker.NumberOfStoreSignAutoClickers)
             {
                 GlobalCash.CashCount += InternalSellIncrease;
-                GlobalBoxes.BoxCount -= 1; 
-            }
+                GlobalBoxes.BoxCount -= GlobalAutoClicker.NumberOfStoreSignAutoClickers; 
+            } else if (GlobalBoxes.BoxCount > 0)
+        {
+            GlobalCash.CashCount += GlobalBoxes.BoxCount;
+            GlobalBoxes.BoxCount = 0;
+        }
             
             yield return new WaitForSeconds(1);
             SellingBoxes = false;

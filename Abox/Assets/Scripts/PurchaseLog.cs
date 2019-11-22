@@ -10,6 +10,7 @@ public class PurchaseLog : MonoBehaviour
     public GameObject AutoBoxThree;
     public GameObject BuyBleach;
     public GameObject AutoStore;
+    public GameObject AutoStoreTwo;
   
     public GameObject buyWorkers;
     public GameObject tekstboxtwo;
@@ -20,6 +21,8 @@ public class PurchaseLog : MonoBehaviour
     public GameObject buyStoreSign;
     public GameObject tekstBoxStore;
 
+    public GameObject buySpeaker;
+    public GameObject tekstBoxStoreTwo;
 
     public AudioSource sellSoundOne;
     public AudioSource sellSoundTwo;
@@ -83,7 +86,7 @@ public class PurchaseLog : MonoBehaviour
         GlobalAutoClicker.PriceOfBleach *= 2;
         GlobalAutoClicker.BleachPerSecond += 1;
         GlobalAutoClicker.NumberOfBleachAutoClickers += 1;
-        gac.updatebuttongraphics(BuyBleach.GetComponentInChildren<Text>(), BuyBleach.GetComponent<UnityEngine.UI.Button>(), "Buy some bleach\n$","bleach");
+        gac.updatebuttongraphics(BuyBleach.GetComponentInChildren<Text>(), BuyBleach.GetComponent<UnityEngine.UI.Button>(), "Buy bleach\n$","bleach");
 
 
     }
@@ -159,17 +162,41 @@ public class PurchaseLog : MonoBehaviour
 
 
     {
-
-    
-   
-
-
         AutoStore.SetActive(true);
         GlobalCash.CashCount -= GlobalAutoClicker.PriceOfStoreSign;
         GlobalAutoClicker.PriceOfStoreSign *= 2;
         GlobalAutoClicker.StoreSignPerSecond += 1;
         GlobalAutoClicker.NumberOfStoreSignAutoClickers += 1;
         gac.updatebuttongraphics(buyStoreSign.GetComponentInChildren<Text>(), buyStoreSign.GetComponent<UnityEngine.UI.Button>(), "Buy store sign\n$", "storeSign");
+
+        generateTone = Random.Range(1, 3);
+        if (generateTone == 1)
+
+        {
+            sellSoundOne.Play();
+
+        }
+        if (generateTone == 2)
+        {
+            sellSoundTwo.Play();
+
+        }
+
+
+
+    }
+
+
+    public void Speaker()
+
+
+    {
+        AutoStoreTwo.SetActive(true);
+        GlobalCash.CashCount -= GlobalAutoClicker.PriceOfSpeaker;
+        GlobalAutoClicker.PriceOfSpeaker *= 2;
+        GlobalAutoClicker.SpeakerPerSecond += 4;
+        GlobalAutoClicker.NumberOfSpeakerAutoClickers += 1;
+        gac.updatebuttongraphics(buySpeaker.GetComponentInChildren<Text>(), buySpeaker.GetComponent<UnityEngine.UI.Button>(), "Buy speaker\n$", "speaker");
 
         generateTone = Random.Range(1, 3);
         if (generateTone == 1)
