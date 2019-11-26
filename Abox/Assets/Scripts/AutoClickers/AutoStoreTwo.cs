@@ -5,9 +5,9 @@ using UnityEngine;
 public class AutoStoreTwo : MonoBehaviour
 {
 
-    public bool SellingBoxesTwo = false;
-    public static int SellIncreaseTwo = 1;
-    public int InternalSellIncreaseTwo;
+    public bool SellingBoxesStoreTwo = false;
+    public static int SellIncreaseStoreTwo = 1;
+    public int InternalSellIncreaseStoreTwo;
     public int SellBoxAmount;
 
 
@@ -15,34 +15,35 @@ public class AutoStoreTwo : MonoBehaviour
     {
     
         
-        SellBoxAmount = GlobalAutoClicker.SpeakerPerSecond + GlobalAutoClicker.NumberOfSpeakerAutoClickers;
+        SellBoxAmount =4*GlobalAutoClicker.NumberOfSpeakerAutoClickers;
+        print("SellBoxAmount" + SellBoxAmount + "!");
 
-
-        SellIncreaseTwo = GlobalAutoClicker.SpeakerPerSecond;
-        InternalSellIncreaseTwo = SellIncreaseTwo;
-        if (SellingBoxesTwo == false)
+        SellIncreaseStoreTwo = GlobalAutoClicker.SpeakerPerSecond;
+        InternalSellIncreaseStoreTwo = SellIncreaseStoreTwo;
+        if (SellingBoxesStoreTwo == false)
         {
-            SellingBoxesTwo = true;
-            StartCoroutine(SellTheBoxTwo());
+            SellingBoxesStoreTwo = true;
+            StartCoroutine(SellTheBoxStoreTwo());
         }
 
     }
             
-        IEnumerator SellTheBoxTwo()
+        IEnumerator SellTheBoxStoreTwo()
         {
             if (GlobalBoxes.BoxCount >= SellBoxAmount)
             {
-                GlobalCash.CashCount += InternalSellIncreaseTwo;
-                GlobalBoxes.BoxCount -= SellBoxAmount; 
-            } else if (GlobalBoxes.BoxCount > 0)
+                GlobalCash.CashCount += InternalSellIncreaseStoreTwo;
+                GlobalBoxes.BoxCount -= SellBoxAmount;
+          
+        } else if (GlobalBoxes.BoxCount > 0)
         {
             GlobalCash.CashCount += GlobalBoxes.BoxCount;
             GlobalBoxes.BoxCount = 0;
-            
+            print("I have taken " + GlobalBoxes.BoxCount + " boxes!");
         }
             
             yield return new WaitForSeconds(1);
-            SellingBoxesTwo = false;
+            SellingBoxesStoreTwo = false;
         }
 
     

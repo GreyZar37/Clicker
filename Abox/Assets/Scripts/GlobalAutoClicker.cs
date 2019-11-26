@@ -19,9 +19,11 @@ public class GlobalAutoClicker : MonoBehaviour
 
     public static int PriceOfScissors = 500;
 
-    public static int PriceOfStoreSign = 100;
+    public static int PriceOfStoreSign = 50;
 
-    public static int PriceOfSpeaker = 10;
+    public static int PriceOfSpeaker = 250;
+
+    public static int PriceOfPlanks = 1500;
 
 
     public static int NumberOfBleachAutoClickers;
@@ -38,6 +40,9 @@ public class GlobalAutoClicker : MonoBehaviour
 
     public static int NumberOfSpeakerAutoClickers;
     public static int SpeakerPerSecond;
+
+    public static int NumberOfPlanksAutoClickers;
+    public static int PlanksPerSecond;
 
 
 
@@ -82,7 +87,12 @@ public class GlobalAutoClicker : MonoBehaviour
         }
         if (buttonType == "speaker")
         {
-            price = PriceOfStoreSign;
+            price = PriceOfSpeaker;
+        }
+
+        if (buttonType == "planks")
+        {
+            price = PriceOfPlanks;
         }
 
 

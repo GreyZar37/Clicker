@@ -8,6 +8,7 @@ public class PurchaseLog : MonoBehaviour
     public GameObject AutoBox;
     public GameObject AutoBoxTwo;
     public GameObject AutoBoxThree;
+    public GameObject AutoBoxFour;
     public GameObject BuyBleach;
     public GameObject AutoStore;
     public GameObject AutoStoreTwo;
@@ -23,6 +24,10 @@ public class PurchaseLog : MonoBehaviour
 
     public GameObject buySpeaker;
     public GameObject tekstBoxStoreTwo;
+
+
+    public GameObject buyPlanks;
+    public GameObject tekstBoxStoreFour;
 
     public AudioSource sellSoundOne;
     public AudioSource sellSoundTwo;
@@ -214,6 +219,40 @@ public class PurchaseLog : MonoBehaviour
 
 
     }
+
+    public void planks()
+
+    {
+
+        GlobalBoxes.BoxCount -= 2;
+        GlobalCash.CashCount += 1;
+        GlobalAutoClicker.NumberOfPlanksAutoClickers += 1;
+
+
+        AutoBoxFour.SetActive(true);
+        GlobalCash.CashCount -= GlobalAutoClicker.PriceOfPlanks;
+        GlobalAutoClicker.PriceOfPlanks *= 2;
+        GlobalAutoClicker.PlanksPerSecond += 12;
+        GlobalAutoClicker.NumberOfPlanksAutoClickers += 1;
+        gac.updatebuttongraphics(buyPlanks.GetComponentInChildren<Text>(), buyPlanks.GetComponent<UnityEngine.UI.Button>(), "Buy planks\n$", "planks");
+
+        generateTone = Random.Range(1, 3);
+        if (generateTone == 1)
+
+        {
+            sellSoundOne.Play();
+
+        }
+        if (generateTone == 2)
+        {
+            sellSoundTwo.Play();
+
+        }
+
+
+
+    }
+
     public void NewBoxTexture()
     {
         Abox.sprite = NewBoxOne;

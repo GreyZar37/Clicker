@@ -96,6 +96,26 @@ public class CheckIf : MonoBehaviour
 
         }
 
+        if (type == "planks")
+        {
+         
+            
+            
+            if (GlobalCash.CashCount >= GlobalAutoClicker.PriceOfPlanks)
+            {
+                GetComponent<UnityEngine.UI.Button>().interactable = true;
+
+            }
+            else
+            {
+                GetComponent<UnityEngine.UI.Button>().interactable = false;
+
+            }
+
+
+        }
+
+
 
 
 
