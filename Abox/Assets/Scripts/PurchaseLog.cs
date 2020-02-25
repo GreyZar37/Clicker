@@ -9,9 +9,12 @@ public class PurchaseLog : MonoBehaviour
     public GameObject AutoBoxTwo;
     public GameObject AutoBoxThree;
     public GameObject AutoBoxFour;
+    public GameObject AutoBoxFive;
+    public GameObject AutoBoxSix;
     public GameObject BuyBleach;
     public GameObject AutoStore;
     public GameObject AutoStoreTwo;
+    
   
     public GameObject buyWorkers;
     public GameObject tekstboxtwo;
@@ -28,6 +31,12 @@ public class PurchaseLog : MonoBehaviour
 
     public GameObject buyPlanks;
     public GameObject tekstBoxStoreFour;
+
+    public GameObject buyNails;
+    public GameObject tekstBoxStoreFive;
+
+    public GameObject buyIron;
+    public GameObject tekstBoxStoreIron;
 
     public AudioSource sellSoundOne;
     public AudioSource sellSoundTwo;
@@ -250,6 +259,66 @@ public class PurchaseLog : MonoBehaviour
         }
 
 
+
+    }
+    public void nails()
+
+    {
+
+       // GlobalBoxes.BoxCount -= 2; 
+        //GlobalCash.CashCount += 1;
+        GlobalAutoClicker.NumberOfNailsAutoClickers += 1;
+
+
+        AutoBoxFive.SetActive(true);
+        GlobalCash.CashCount -= GlobalAutoClicker.PriceOfNails;
+        GlobalAutoClicker.PriceOfNails *= 2;
+        GlobalAutoClicker.NailsPerSecond += 24;
+        GlobalAutoClicker.NumberOfNailsAutoClickers += 1;
+        gac.updatebuttongraphics(buyNails.GetComponentInChildren<Text>(), buyNails.GetComponent<UnityEngine.UI.Button>(), "Buy Nails\n$", "nails");
+
+        generateTone = Random.Range(1, 3);
+        if (generateTone == 1)
+
+        {
+            sellSoundOne.Play();
+
+        }
+        if (generateTone == 2)
+        {
+            sellSoundTwo.Play();
+
+        }
+
+
+
+    }
+
+    public void Iron()
+    {
+
+    GlobalAutoClicker.NumberOfIronAutoClickers += 1;
+
+
+        AutoBoxSix.SetActive(true);
+        GlobalCash.CashCount -= GlobalAutoClicker.PriceOfIron;
+        GlobalAutoClicker.PriceOfIron *= 2;
+        GlobalAutoClicker.IronPerSecond += 40;
+        GlobalAutoClicker.NumberOfIronAutoClickers += 1;
+        gac.updatebuttongraphics(buyIron.GetComponentInChildren<Text>(), buyIron.GetComponent<UnityEngine.UI.Button>(), "Buy Iron\n$", "Iron");
+
+        generateTone = Random.Range(1, 3);
+        if (generateTone == 1)
+
+        {
+            sellSoundOne.Play();
+
+        }
+        if (generateTone == 2)
+        {
+            sellSoundTwo.Play();
+
+        }
 
     }
 

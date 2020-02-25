@@ -25,6 +25,10 @@ public class GlobalAutoClicker : MonoBehaviour
 
     public static int PriceOfPlanks = 1500;
 
+    public static int PriceOfNails = 2500;
+
+    public static int PriceOfIron = 10;
+
 
     public static int NumberOfBleachAutoClickers;
     public static int BleachPerSecond;
@@ -43,6 +47,14 @@ public class GlobalAutoClicker : MonoBehaviour
 
     public static int NumberOfPlanksAutoClickers;
     public static int PlanksPerSecond;
+
+    public static int NumberOfNailsAutoClickers;
+    public static int NailsPerSecond;
+
+    public static int NumberOfIronAutoClickers;
+    public static int IronPerSecond;
+
+
 
 
 
@@ -93,6 +105,16 @@ public class GlobalAutoClicker : MonoBehaviour
         if (buttonType == "planks")
         {
             price = PriceOfPlanks;
+        }
+
+        if (buttonType == "nails")
+        {
+            price = PriceOfNails;
+        }
+
+        if (buttonType == "Iron")
+        {
+            price = PriceOfIron;
         }
 
 

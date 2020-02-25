@@ -136,8 +136,43 @@ public class CheckIf : MonoBehaviour
 
             }
 
+        if (type == "nails")
+        {
+            if (GlobalCash.CashCount >= GlobalAutoClicker.PriceOfNails)
+            {
+                GetComponent<UnityEngine.UI.Button>().interactable = true;
+
+            }
+            else
+            {
+                GetComponent<UnityEngine.UI.Button>().interactable = false;
+
+            }
 
 
         }
+
+
+        if (type == "Iron")
+        {
+            if (GlobalCash.CashCount >= GlobalAutoClicker.PriceOfIron)
+            {
+                GetComponent<UnityEngine.UI.Button>().interactable = true;
+
+            }
+            else
+            {
+                GetComponent<UnityEngine.UI.Button>().interactable = false;
+
+            }
+
+
+        }
+
+
+
+
+
+    }
     }
 
